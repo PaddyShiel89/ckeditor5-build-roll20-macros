@@ -1,6 +1,6 @@
 {
   "name": "@paddyshiel/ckeditor5-build-roll20-macros",
-  "version": "25.0.3",
+  "version": "25.0.4",
   "description": "A custom CKEditor build optimised for creating Roll20 macros.",
   "keywords": [
     "ckeditor5-build",
@@ -65,14 +65,13 @@
     "node": ">=12.0.0",
     "npm": ">=5.7.1"
   },
-  "author": "CKSource (http://cksource.com/)",
+  "author": "CKSource (http://cksource.com/) & Patrick Shiel",
   "license": "GPL-2.0-or-later",
   "homepage": "https://ckeditor.com/ckeditor-5",
-  "bugs": "https://github.com/ckeditor/ckeditor5/issues",
+  "bugs": "https://github.com/paddyshiel/ckeditor5-build-roll20-macros/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ckeditor/ckeditor5.git",
-    "directory": "packages/ckeditor5-build-classic"
+    "url": "https://github.com/paddyshiel/ckeditor5-build-roll20-macros.git"
   },
   "scripts": {
     "build": "webpack --mode production",
